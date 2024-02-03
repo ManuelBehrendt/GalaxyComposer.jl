@@ -1,2 +1,2 @@
 # GalaxyComposer.jl
-Explore disk galaxies and there individual components and profiles!
+Explore disk galaxies and their components and profiles!
